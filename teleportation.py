@@ -1,4 +1,4 @@
-# Python code to demonstrate the working of Teleportation in Qiskit
+# Python code to demonstrate Qbits Teleportation in Qiskit
 from qiskit import Aer, QuantumCircuit, transpile, assemble
 
 # Function to create the Bell state |Φ+⟩ = (|00⟩ + |11⟩)/√2
